@@ -1,0 +1,14 @@
+C:\IT Skole\VS\ModelYourself\ModelYourself\bin\Debug\net8.0\ModelYourself.exe
+C:\IT Skole\VS\ModelYourself\ModelYourself\bin\Debug\net8.0\ModelYourself.deps.json
+C:\IT Skole\VS\ModelYourself\ModelYourself\bin\Debug\net8.0\ModelYourself.runtimeconfig.json
+C:\IT Skole\VS\ModelYourself\ModelYourself\bin\Debug\net8.0\ModelYourself.dll
+C:\IT Skole\VS\ModelYourself\ModelYourself\bin\Debug\net8.0\ModelYourself.pdb
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.AssemblyInfoInputs.cache
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.AssemblyInfo.cs
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.csproj.CoreCompileInputs.cache
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.dll
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\refint\ModelYourself.dll
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.pdb
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ModelYourself.genruntimeconfig.cache
+C:\IT Skole\VS\ModelYourself\ModelYourself\obj\Debug\net8.0\ref\ModelYourself.dll
